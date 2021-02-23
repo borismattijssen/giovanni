@@ -6,6 +6,6 @@
 ```bash
 docker run --name giuseppe-quiz -p 8080:8080 -d dateamvdb/giuseppe-quiz
 ```
-2. Wait 3 minutesj
+2. Wait 3 minutes
 3. Open http://localhost:8080/nifi/
 
